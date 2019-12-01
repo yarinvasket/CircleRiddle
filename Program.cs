@@ -6,7 +6,7 @@ namespace CircleRiddle
     class Program
     {
         public static Random rnd = new Random();
-        public const int l = 4;
+        public const int l = 5;
 
         static void Main(string[] args)
         {
