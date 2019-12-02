@@ -60,6 +60,7 @@ namespace CircleRiddle
                     if (circleLength >= arrLength / 2)
                     {
                         isCircle = true;
+                        break;
                     }
                 }
                 if (isCircle)
